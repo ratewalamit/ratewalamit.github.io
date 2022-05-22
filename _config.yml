@@ -83,18 +83,19 @@ author:
   name             : "Amit Kumar Ratewal"
   avatar           : "profile.png"
   bio              : #"I am a undergrad researcher working in the field of Cosmology."
-  location         : "Pune, India"
-  employer         : "IUCAA"
+  location         : #"Pune, India"
+  employer         : "IUCAA, Pune (India)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #""
   email            : "ratewalamit@gmail.com, amitk@iucaa.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  arxiv            :  
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/akratewal"
   foursquare       :
   github           : "ratewalamit"
   google_plus      :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2307-6396"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
