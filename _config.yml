@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amit Kr. Ratewal"
+title                    : "Amit Ratewal's Homepage"
 title_separator          : "-"
 name                     : &name "Amit"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amit Kumar Ratewal"
+  name             : "Amit Kr. Ratewal"
   avatar           : "profile.png"
   bio              : #"I am a undergrad researcher working in the field of Cosmology."
   location         : #"Pune, India"
