@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.Sc(Hons.) in Physics, Delhi University, 2010-13
+* M.Sc. in Physics, Delhi University, 2014-16
+* Ph.D in Astrophysics, IUCAA, 2018-23 (expected)
+    Supervisor: Prof. Surhud More
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018-2020: Junior Research Fellow
+  * Graduate School Coursework 
+  * Projects: Environmental effects on dark matter distribution around satellite galaxies in galaxy clusters
+  * Supervisor: Prof. Surhud More
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-Present: Senior Research Fellow 
+  * Project: Environmental effects on dark matter distribution around satellite galaxies in galaxy clusters
+  * Project: Shear Calibration in dense galaxy clusters
+  * Supervisor: Prof. Surhud More
   
-Skills
+Skills 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python           : Intermeddiate - Advanced level 
+* Bash Scriptign   : Beginner level
+* C & C++          : Intermeddiate level
+* SQL,Pl-SQL,Visual Basic, JAVA : Beginner level
 
 Publications
 ======
@@ -54,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
