@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.Sc(Hons.) in Physics, Delhi University, 2010-13
