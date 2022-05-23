@@ -34,7 +34,7 @@ Skills
 * Python           : Intermeddiate - Advanced level 
 * Bash Scriptign   : Beginner level
 * C & C++          : Intermeddiate level
-* SQL,Pl-SQL,Visual Basic, JAVA : Beginner level
+* SQL ,Pl-SQL, Visual Basic, JAVA : Beginner level
 
 Publications
 ======
