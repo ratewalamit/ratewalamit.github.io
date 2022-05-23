@@ -15,6 +15,7 @@ Education
 * M.Sc. in Physics, Delhi University, 2014-16
 * Ph.D in Astrophysics, IUCAA, 2018-23 (expected)
     Supervisor: Prof. Surhud More
+    
 Work experience
 ======
 * Summer 2018-2020: Junior Research Fellow
