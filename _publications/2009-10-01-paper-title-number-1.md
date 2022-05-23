@@ -2,7 +2,7 @@
 title: "Subaru HSC weak lensing of SDSS redMaPPer cluster satellite galaxies: Empirical upper limit on orphan fractions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about understainding the effect of dense cluster environment on the dark matter distribution around satellite galaxies. We comapre the dark matter around satellites to distribution around field galaxies having similar properties that to satellites and use it to comment on the strength of various processes happening in the cluster may be responsible to it.'
 #date: 2009-10-01
 venue: 'MNRAS'
 paperurl: '[https://arxiv.org/pdf/2205.00018.pdf]'
