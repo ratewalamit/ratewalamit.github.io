@@ -19,7 +19,7 @@ Education
     
 Work experience
 ======
-* Summer 2018-2020: Junior Research Fellow
+* July 2018-2020: Junior Research Fellow
   * Graduate School Coursework 
   * Projects: Environmental effects on dark matter distribution around satellite galaxies in galaxy clusters
   * Supervisor: Prof. Surhud More
